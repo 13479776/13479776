@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Hees, 栾合密!]
+### Hey 👋🏽, I'm [Hees, 栾合密!](http://faculty.sustech.edu.cn/luanhm/)
 
 
 <br />
