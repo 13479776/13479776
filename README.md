@@ -11,6 +11,6 @@ Hi, I'm  Hees, a Researcher 🚀 from China, currently, my interests are methodo
 - 👯 I’m looking to collaborate on data quality control of Omics 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ We have developed 3 tools, CPVA, statTarget and metaboDB
-- 📫 How to reach me: luanhm@sustechedu.cn;
+- 📫 How to reach me: luanhm@sustech.edu.cn;
 - 📝[Resume](http://faculty.sustech.edu.cn/luanhm/en/)
 
