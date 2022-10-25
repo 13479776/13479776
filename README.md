@@ -1,9 +1,9 @@
-### Hey 👋🏽, I'm [Hees, 栾合密!](http://faculty.sustech.edu.cn/luanhm/)
+### Hey 👋🏽, I'm [Hemi, 栾合密!](http://faculty.sustech.edu.cn/luanhm/)
 
 
 <br />
 
-A Researcher 🚀 from China, currently, my interests are methodology development of mass spectrometry, pharmaco-metabolomics, and drugs/metabolites metabolism and their targets discovery. We develop a large-scale, high-throughput, non-targeted mass spectrometry based pharmaco-metabolomics methodology system, as well as specific analytical methods for targeting the gut flora related drugs/metabolites. Integration of mass spectrometry, pharmaco-metabolomics, and bioinformatics technologies seeks to study the drug/metabolite-driven pathophysiological metabolism, and discover the functional biomarkers and pharmacotherapeutic targets associated with chronic complex disorder.
+A Researcher 🚀 from China, currently, my interests are methodology development of mass spectrometry, metabolomics, and drugs/metabolites metabolism and their targets discovery. We develop a large-scale, high-throughput, non-targeted mass spectrometry based metabolomics methodology system, as well as  analytical methods for targeting the gut flora related drugs/metabolites. Integration of mass spectrometry, metabolomics, and bioinformatics technologies seeks to study the drug/metabolite-driven pathophysiological metabolism, and discover the functional biomarkers and pharmacotherapeutic targets associated with chronic complex disorder.
 
 **Personal Stuffs:**
 
