@@ -1,16 +1,16 @@
-### Hey 👋🏽, I'm [Hemi, 栾合密!](http://faculty.sustech.edu.cn/luanhm/)
+### Hey 👋🏽, I'm [Hemi, 栾合密!]()
 
 
 <br />
 
-A Researcher 🚀 from China, currently, my interests are methodology development of mass spectrometry, metabolomics, and drugs/metabolites metabolism and their targets discovery. We develop a large-scale, high-throughput, non-targeted mass spectrometry based metabolomics methodology system, as well as  analytical methods for targeting the gut flora related drugs/metabolites. Integration of mass spectrometry, metabolomics, and bioinformatics technologies seeks to study the drug/metabolite-driven pathophysiological metabolism, and discover the functional biomarkers and pharmacotherapeutic targets associated with chronic complex disorder.
+A Researcher 🚀 from China, currently, my interests are intergration of mass spectrometry and computational biology for active small molecules and their molecular targets discovery, with emphasis on applications in biomedicine, environmental pollutant toxicology, and human health.
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on mass specroemtry and metabolomics;
-- 👯 I’m looking to collaborate on data quality control of Omics 🤝;
+- 👨🏽‍💻 I’m currently working on mass specroemtry and computational biology;
+- 👯 I’m looking to collaborate on Omics 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ We have developed 3 tools, CPVA, statTarget and metaboDB
-- 📫 How to reach me: luanhm@sustech.edu.cn;
-- 📝[Resume](http://faculty.sustech.edu.cn/luanhm/en/)
+- ⚡️ We have developed mass spectrometry tools, CPVA, statTarget and metaboDB
+- 📫 How to reach me: hm-luan@msn.com;
+- 📝[Resume]()
 
